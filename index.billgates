@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>Bill Gates</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.billgates">Bill Gates</a></h1>
+
+<ol>
+  <li><a href="1.billgates">문제 해결에 대한 집중력</a></li>
+  <li><a href="2.billgates">개발도상국에 변기 설치</a></li>
+  <li><a href="3.billgates">소아마비 근절</a></li>
+</ol>
+
+<br><h2>Bill Gates</h2>
+
+<font size='+1'>
+<p style="margin-top:40px"> Bill Gates의 긍정적인 영향력에 감명을 받았습니다.</p>
+<p style="margin-top:40px"> 소프트웨어를 통해 세상을 바꾼 Bill Gates. 그는 2008년 은퇴 후 새로운 문제를 해결하기 위해 고군분투 하고 있습니다. 그의 긍정적인 영향력에 대해 감명받았고, 저도 그런 사람이 되고자 합니다.</p>
+</font>
+</body>
+</html>
