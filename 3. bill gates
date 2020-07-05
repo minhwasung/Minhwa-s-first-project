@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>Bill Gates</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.bill gates">Bill Gates</a></h1>
+
+<ol>
+  <li><a href="1. bill gates">문제 해결에 대한 집중력</a></li>
+  <li><a href="2. bill gates">개발도상국에 변기 설치</a></li>
+  <li><a href="3. bill gates">소아마비 근절</a></li>
+</ol>
+
+<br><h2>3. 소아마비 근절</h2>
+
+<font size='+1'>
+<p style="margin-top:40px"> 제 생에 처음으로 <strong>'해결이 어려운 <u>문제</u>인가'</strong>에 대한 것이 아니었어요. <br>대화의 주제는 '왜 해결책이 통하지 않는가', '무엇을 해봤는가', '감히 시도하지 않은 것은 뭘까'였죠.</p>
+<p style="margin-top:40px"> It was the first time in my life that conversation was not about whether it is difficult to solve. <br>The conversation was about 'why it dosen't work', 'What have we tried', 'what have we never doared to try'.</p>
+</font>
+</body>
+</html>
